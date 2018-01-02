@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Joe's Blog"
+title                    : "Chen's Blog"
 title_separator          : "-"
-name                     : "hijiangtao"
-description              : "All I'm saying is inside, I had the element of surprise."
-url                      : # "https://hijiangtao.github.io"
+name                     : "chen-jia-lin"
+description              : "There is no end for learning, repent and be saved."
+url                      : # "https://chen-jia-lin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hijiangtao/hijiangtao.github.io"
+repository               : "chen-jia-lin/chen-jia-lin.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -21,7 +21,7 @@ comments:
   provider               : "disqus"
   # duoshuo                : datablog
   disqus:
-    shortname            : hijiangtao
+    shortname            : chen-jia-lin
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "hijiangtao"
+  name             : "chen-jia-lin"
   avatar           : "bio-photo.jpg"
-  bio              : "VIS and FE."
-  location         : "Beijing, China"
-  email            : "hijiangtao@gmail.com"
+  bio              : "初次尝试个人Blog的小菜鸡"
+  location         : "Guangzhou, China"
+  email            : "1213447537@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hijiangtao
+  github           : chen-jia-lin
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : hijiangtao
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : hijiangtao
+  twitter          : 
   vine             :
-  weibo            : hijiangtao
+  weibo            : # https://weibo.com/cjlman/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
   xing             :
   youtube          :
   cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"
