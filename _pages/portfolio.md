@@ -6,16 +6,16 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: blogAlbumhomepage-banner-1.jpg
-  cta_url: "https://github.com/hijiangtao/hijiangtao.github.io/"
-  caption: "Photo credit: [**hijiangtao**](https://hijiangtao.github.io/)"
-excerpt: "Joe's Portfolio."
+  cta_url: "https://github.com/chen-jia-lin/chen-jia-lin.github.io/"
+  caption: "Photo credit: [**chen-jia-lin**](https://chen-jia-lin.github.io/)"
+excerpt: "Chen's Portfolio."
 intro: 
-  - excerpt: 'Some projects slected from my works. You can find out more via my Github Repositry List.'
+  - excerpt: '分别为信息可视化项目和网页设计的项目'
 feature_row:
   - image_path: ../assets/in-post/2016-11-07-DAVA16-Screenshot.png
     alt: "DAVA16"
-    title: "Customer Stickiness VA"
-    excerpt: "Visual Comparison of Customer Stickiness in Retail Stores, accepted by DAVA, CIKM 2016"
+    title: "北京，距离蓝天还有多远？"
+    excerpt: "期中小组项目"
     url: "/2016/11/07/DAVA16/"
   - image_path: ../assets/in-post/2015-09-08-reusable-vis-component.png
     alt: "VIS Monitor Components"
