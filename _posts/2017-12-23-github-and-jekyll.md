@@ -1,14 +1,16 @@
 ---
-date: 2017-12-23
-layout: post
 title: 采用jekyll和github构建个人博客
-thread: 9
+layout: post
+thread: 184
+date: 2017-12-23
+author: 浪漫双鱼
 categories: Student
-tags: [BIT]
-excerpt: 参考与浪漫双鱼个人博客
+tags: [2017, UCAS]
+excerpt: 参考自浪漫双鱼的个人博客
+header:
+  image: ../assets/in-post/2017-12-23-Get-A-Christmas-Hat-From-Wechat-1.jpg
+  caption: "From Internet"
 ---
-
-![2013](/assets/in-post/2013-12-21-tendaysleft.jpg)
 
 # 步骤
 
