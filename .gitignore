@@ -1,0 +1,16 @@
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+node_modules
+npm-debug.log*
+vendor/*
+
+_drafts
+trash
+
+_posts/2017-10-04-My-Campus-Recruit-Experience.md
