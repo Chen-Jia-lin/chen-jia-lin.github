@@ -2,7 +2,7 @@
 title: 采用jekyll和github构建个人博客
 layout: post
 thread: 184
-date: 2018-1-3
+date: 2017-12-23
 author: 浪漫双鱼
 categories: Student
 tags: [2017, UCAS]
