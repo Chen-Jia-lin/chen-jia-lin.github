@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Posts"
+  - title: "学习笔记"
     url: /posts
 
   - title: "Categories"
     url: /categories
 
-  - title: "Tags"
+  - title: "Articles"
     url: /tags
 
   - title: "作品集"
