@@ -8,7 +8,7 @@ categories: Student
 tags: [2017, UCAS]
 excerpt: 参考自浪漫双鱼的个人博客
 header:
-  image: ../assets/in-post/2017-12-23-Get-A-Christmas-Hat-From-Wechat-1.jpg
+  image: ../assets/in-post/2017-12-23-Github-And-Jekyll.jpg
   caption: "From Internet"
 ---
 
