@@ -1,5 +1,5 @@
 ---
-date: 2017-1-2
+date: 2017-12-23
 layout: post
 title: 采用jekyll和github构建个人博客
 thread: 9
