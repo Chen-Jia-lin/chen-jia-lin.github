@@ -88,6 +88,7 @@ author:
   bio              : "初次尝试个人Blog的小菜鸡"
   location         : "Guangzhou, China"
   email            : "1213447537@qq.com"
+  wechat           : "JIALINWECHAT"
   uri              :
   bitbucket        :
   codepen          :
@@ -107,7 +108,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : # https://weibo.com/cjlman/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
+  weibo            : https://weibo.com/cjlman/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
   xing             :
   youtube          :
   cv               : "/assets/doc/TaoJiang-ResumeCN.pdf"
