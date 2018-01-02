@@ -2,7 +2,7 @@
 title: 有道云的markdown语言
 layout: post
 thread: 183
-date: 2017-12-18
+date: 2018-1-2
 author: 丁昆朋
 categories: documents
 tags: [2017, JavaScript, FE, Translation]
