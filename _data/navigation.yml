@@ -6,14 +6,14 @@ main:
   - title: "Categories"
     url: /categories
 
-  - title: "Articles"
+  - title: "Tags"
     url: /tags
 
   - title: "作品集"
     url: /portfolio
 
-  - title: "Guestbook"
+  - title: "踩一踩"
     url: /guestbook
 
-  - title: "About"
+  - title: "关于我"
     url: /about
