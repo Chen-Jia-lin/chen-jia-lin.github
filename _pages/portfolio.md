@@ -3,8 +3,6 @@ title: "Portfolio"
 layout: splash
 permalink: /portfolio
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: blogAlbumhomepage-banner-1.jpg
   cta_url: "https://github.com/chen-jia-lin/chen-jia-lin.github.io/"
   caption: "Photo credit: [**chen-jia-lin**](https://chen-jia-lin.github.io/)"
