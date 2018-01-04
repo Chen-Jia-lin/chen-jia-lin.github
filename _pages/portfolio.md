@@ -14,10 +14,10 @@ feature_row:
     title: "北京，距离蓝天还有多远？"
     excerpt: "期中小组项目"
     url: "/2016/11/07/DAVA16/"
-  - image_path: ../assets/in-post/2014-08-29-Dark-Tech-Theme.jpg
-    title: "Dark-Tech"
-    excerpt: "A Responsive Hexo Theme."
-    url: "/2014/08/29/Dark-Tech-Theme/"
+  - image_path: ../assets/in-post/2017-12-30-Tableau-Map.jpg
+    title: "信息可视化作品"
+    excerpt: "老人在中国是否得到关护？"
+    url: "/2017/12/30/Tableau-Map/"
 ---
 
 {% include feature_row id="intro" type="center" %}
