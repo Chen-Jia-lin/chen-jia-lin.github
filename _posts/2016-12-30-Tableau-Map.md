@@ -7,7 +7,7 @@ author: 陈嘉琳
 categories: [Web]
 tags: [CN,front-end,可视化,tableau]
 excerpt: 地图。
-permalink: /infovis//2017/12/30/tableaumap/
+permalink: /posts/infovis//2017/12/30/tableau map/
 ---
 
 # 老人在中国是否得到关护？
