@@ -17,7 +17,7 @@ feature_row:
   - image_path: ../assets/in-post/2017-12-30-Tableau-Map.jpg
     title: "信息可视化作品"
     excerpt: "老人在中国是否得到关护？"
-    url: "/infovis//2017/12/30/tableau map/"
+    url: "/infovis//2017/12/30/tableaumap/"
 ---
 
 {% include feature_row id="intro" type="center" %}
