@@ -2,12 +2,12 @@
 title: 信息可视化作品
 layout: keynote
 thread: 180
-date: 2017-12-30
+date: 2016-12-30
 author: 陈嘉琳
 categories: [Web]
 tags: [CN,front-end,可视化,tableau]
 excerpt: 地图。
-permalink: /posts/infovis//2017/12/30/tableau map/
+permalink: /infovis//2016/12/30/tableau map/
 ---
 
 # 老人在中国是否得到关护？
