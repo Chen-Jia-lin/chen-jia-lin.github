@@ -3,17 +3,11 @@ main:
   - title: "学习笔记"
     url: /posts
 
-  - title: "Categories"
-    url: /categories
+  - title: "信息可视化作品集"
+    url: /infovis
 
-  - title: "Tags"
-    url: /tags
-
-  - title: "作品集"
+  - title: "网页设计作品集"
     url: /portfolio
-
-  - title: "踩一踩"
-    url: /guestbook
 
   - title: "关于我"
     url: /about
