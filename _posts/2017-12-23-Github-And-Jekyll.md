@@ -6,8 +6,9 @@ date: 2017-12-23
 author: 浪漫双鱼
 categories: posts rwd
 excerpt: 参考自浪漫双鱼的个人博客
-header:
-  image: ../assets/in-post/2017-12-23-Github-And-Jekyll.jpg
+image:
+  teaser: 2017-12-23-Github-And-Jekyll.jpg
+  feature: 2017-12-23-Github-And-Jekyll.jpg
 ---
 
 # 步骤
