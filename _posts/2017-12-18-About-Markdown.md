@@ -1,15 +1,13 @@
 ---
 title: 有道云的markdown语言
-layout: post
+layout: article
 thread: 183
 date: 2017-12-18
 author: 丁昆朋
-categories: documents
-tags: [2017, JavaScript, FE, Translation]
+categories: posts rwd
 excerpt: 教你快速学会markdown语言
 header:
   image: ../assets/in-post/2017-12-18-A-Recap-of-Front-End-Development-in-2017-teaser.jpg
-  caption: "From Internet"
 ---
 
 >

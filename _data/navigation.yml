@@ -1,13 +1,21 @@
-# main links links
-main:
-  - title: "学习笔记"
-    url: /posts
+# Site navigation links
 
-  - title: "信息可视化作品集"
-    url: /categories
-
-  - title: "网页设计作品集"
-    url: /portfolio
-
-  - title: "关于我"
-    url: /about
+- title: 网页设计作品集
+  url: /portfolio/
+- excerpt: 网页制作与设计
+  image: images_tu1.gif
+  
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: Tableau个人作品
+  image: images_tu2.gif
+  
+- title: 网页制作学习笔记
+  url: /posts/rwd/
+  excerpt: RWD2等知识点
+  image: post_rwd.jpg
+  
+- title: 信息可视化学习笔记
+  url: /posts/infovis/
+  excerpt: 白皮书等知识点
+  image: post_infovis.jpg

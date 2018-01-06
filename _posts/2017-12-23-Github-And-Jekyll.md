@@ -1,15 +1,13 @@
 ---
 title: 采用jekyll和github构建个人博客
-layout: post
+layout: article
 thread: 184
 date: 2017-12-23
 author: 浪漫双鱼
-categories: Student
-tags: [2017, UCAS]
+categories: posts rwd
 excerpt: 参考自浪漫双鱼的个人博客
 header:
   image: ../assets/in-post/2017-12-23-Github-And-Jekyll.jpg
-  caption: "From Internet"
 ---
 
 # 步骤
