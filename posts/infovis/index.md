@@ -6,7 +6,6 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: images_tu2.gif
   teaser:
 ---
 

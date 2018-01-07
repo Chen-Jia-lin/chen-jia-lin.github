@@ -5,8 +5,6 @@ date: 2018-1-4T14:25:45-04:00
 modified:
 excerpt: ""
 tags: []
-image: 
-  feature: bi_ji.jpg
  
 ---
 
