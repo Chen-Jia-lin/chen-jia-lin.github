@@ -26,14 +26,9 @@ my_api_key = 'ced346dd9eedc2d6fd9ee3382edb0835'
 ```
 #### 这一步直接执行即可
 ```
-# amap.com 行政区域查询
-# http://lbs.amap.com/api/webservice/guide/api/district/
 from pprint import pprint
 import requests #用於API HTTP requests
 import json     #用於输入出json
-
-# 实践 amap行政区域查询API 中的 服务示例
-# http://restapi.amap.com/v3/config/district?keywords=北京&subdistrict=2&key=<用户的key>
 
 url_api = "http://restapi.amap.com/v3/config/district"
 parameters = {'keywords': '中国', 
