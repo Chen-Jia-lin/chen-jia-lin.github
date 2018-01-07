@@ -8,7 +8,6 @@ categories: post infovis
 excerpt: 这篇文章主要是关于《最简单的图形和最复杂的信息》的内容知识点。
 image:
   teaser: post_infovis.jpg
-  feature: post_infovis.jpg
 ---
 >#### 第一章【 [Tableau的应用](#chapter1) 】
 >#### 第二章【 [7类图表的使用规范](#chapter2) 】
