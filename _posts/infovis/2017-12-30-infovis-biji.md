@@ -6,7 +6,6 @@ date: 2017-12-30
 author: 陈嘉琳
 categories: post infovis
 excerpt: 这篇文章主要是关于《最简单的图形和最复杂的信息》的内容知识点。
-permalink: /posts/infovis//2017/12/30/infovis/
 image:
   teaser: post_infovis.jpg
   feature: post_infovis.jpg
@@ -23,13 +22,12 @@ image:
 
 
 ---
- ## 好的信息图形的三个基本要素：
- 
- ## 1.丰富的内容给图标以意义
- 
- ## 2.引人注意的视觉效果向读者阐释内容，并且强调信息的精华。
- 
- ## 3.精细的制作使内容和图表活灵活现。
+>## 好的信息图形的三个基本要素：
+>## 1.丰富的内容给图标以意义
+>## 2.引人注意的视觉效果向读者阐释内容，并且强调信息的精华。
+>## 3.精细的制作使内容和图表活灵活现。
+---
+
 <h3 id="chapter1">第一章 Tableau的应用</h3>
 <p>1.[网上教程](https://www.tableau.com/zh-cn/learn/training)</p>
 <p>2.数据收集可以上[国家数据网](http://data.stats.gov.cn/)</p>
