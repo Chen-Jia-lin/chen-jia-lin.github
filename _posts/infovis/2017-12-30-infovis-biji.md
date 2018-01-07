@@ -10,8 +10,6 @@ image:
   teaser: post_infovis.jpg
   feature: post_infovis.jpg
 ---
-
-# 目录
 >#### 第一章【 [Tableau的应用](#chapter1) 】
 >#### 第二章【 [7类图表的使用规范](#chapter2) 】
 好的信息图形的三个基本要素：
@@ -23,7 +21,6 @@ image:
 <p>2.数据收集可以上[国家数据网](http://data.stats.gov.cn/)</p>
 <p>3.清理数据可用到Notepad++和Excel文档中的筛选等，还可以用到Tableau里的数据解释器。</p>
 <p>4.[如何用python结合高德key抓取数据？](https://chen-jia-lin.github.io/post/infovis/infovis-biji2/)</p>
----
 <h3 id="chapter2">第二章 7类图表的使用规范</h3>
 <p>1.折线图：最好显示一段时间内的连续数据系列（占图标区域的三分之二，恰当的粗细，四条或四条线以下，最好都用实线，不一定要有零基线）</p>
 <p>2.垂直条形图：零散数据（直条的宽度应为条间距的两倍，最好不要三维图像，不要绘制阴影，要有零基线）</p>
