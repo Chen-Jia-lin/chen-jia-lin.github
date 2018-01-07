@@ -28,8 +28,7 @@ image:
 <p>5.表格：数据太多，空间有限的时候使用（每三到五个条目使用一条细线，所有的数字右对齐排列)</p>
 <p>6.象形图：比较一些简单的数据系列时使用（好的图标需要简洁、对称、即使缩也要清晰可见，计算时用倍数单位比较）</p>
 <p>7.地图：只有与地理有关的时候才使用地图</p>
-## 更多的图表类型
-(参考:[白皮书](https://www.tableau.com/sites/default/files/media/Whitepapers/which_chart_v6_chs.pdf))
+### 更多的图表类型(参考:[白皮书](https://www.tableau.com/sites/default/files/media/Whitepapers/which_chart_v6_chs.pdf))
 <p>1.靶心图(Box-and-whisker plot)：设定了目标并希望参照目标跟踪进展时理想之选。参照目标评估指标表现。</p>
 <p>2.甘特图(bullet chart)：对于说明项目各元素的起始与终止日期效果非常好。</p>
 <p>3.突出显示表(Hightlight table)：让热点图更进一步。除了用色彩显示数据的交叉情况外，还在上方添加数字，提供更多详细信息。</p>
